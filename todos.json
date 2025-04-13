@@ -1,0 +1,23 @@
+[
+    {
+        "Title": "updated todo",
+        "Completed": true,
+        "CreatedAt": "2025-04-13T18:35:44.4000605+05:30",
+        "UpdatedAt": "2025-04-13T18:35:44.4037587+05:30",
+        "CompletedAt": "2025-04-13T18:35:44.4037587+05:30"
+    },
+    {
+        "Title": "first todo",
+        "Completed": false,
+        "CreatedAt": "2025-04-13T18:36:12.4695568+05:30",
+        "UpdatedAt": "2025-04-13T18:36:12.4695568+05:30",
+        "CompletedAt": null
+    },
+    {
+        "Title": "second todo",
+        "Completed": false,
+        "CreatedAt": "2025-04-13T18:36:12.4695568+05:30",
+        "UpdatedAt": "2025-04-13T18:36:12.4695568+05:30",
+        "CompletedAt": null
+    }
+]
